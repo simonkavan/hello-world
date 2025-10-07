@@ -1,2 +1,2 @@
 # hello-world
-This is repository was made to learn to use GitHub.
+This repository was made to learn to use GitHub.
