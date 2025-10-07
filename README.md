@@ -1,2 +1,3 @@
 # hello-world
-This repository was made to learn to use GitHub.
+Hello!
+My name is Šimon and I really enjoy working with spatial data. My main passions are GIS and Remote Sensing. 
